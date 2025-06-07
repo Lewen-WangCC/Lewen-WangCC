@@ -12,6 +12,12 @@
     </a>
   </div>
 </div>
+
+<!-- Stats Words -->
+![Metrics](github-metrics.svg)
+
+<!-- Skills Emoji -->
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,linux,github,vscode,pycharm,anaconda,vim,git,bash,docker,nginx&theme=dark&perline=7)](https://skillicons.dev)
 <!--
 **Lewen-WangCC/Lewen-WangCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
