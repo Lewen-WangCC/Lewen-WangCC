@@ -4,7 +4,14 @@
 <!-- Welcome words -->
 <h1 style="color: #c1ea09;">Welcome to Lewen's GitHub! 👋</h1>
 
-
+<!-- Little Logo -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="http://lewen-wangcc.github.io/">
+      <img src="https://img.shields.io/badge/Personal-Website-FFC0CB?style=flat" alt="Personal Website">
+    </a>
+  </div>
+</div>
 <!--
 **Lewen-WangCC/Lewen-WangCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
