@@ -22,17 +22,3 @@ jobs:
           plugin_stargazers: yes
           plugin_followup: yes
 
-  github-3dchart:
-    runs-on: ubuntu-latest
-    environment:
-      name: production
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.3d.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_3d: yes
-          plugin_3d_sections: activity, repositories, metadata
