@@ -37,10 +37,10 @@
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)"  
-                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent&area=true&color=4A90E2&point=007ACC&line=1E90FF" />
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent" />
         <source media="(prefers-color-scheme: light)" 
-                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent&area=true&color=4A90E2&point=007ACC&line=1E90FF" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent&area=true&color=4A90E2&point=007ACC&line=1E90FF" 
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent" 
              alt="GitHub Activity Graph" />
       </picture>
     </td>
