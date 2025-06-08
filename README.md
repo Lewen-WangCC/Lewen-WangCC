@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcxYjB5YnFwZHpsc3l2Y2N0ZWwzOXh1NjR2OWtpbDV1eHh2enR5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7srpeY4TZMrO8/giphy.gif"
-     alt="The Big Lebowski GIF"
-     style="transform: scale(3); transform-origin: top left;" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcxYjB5YnFwZHpsc3l2Y2N0ZWwzOXh1NjR2OWtpbDV1eHh2enR5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7srpeY4TZMrO8/giphy.gif" 
+     alt="The Big Lebowski GIF" width="600" />
 <!-- Welcome words -->
 <h1 style="color: #c1ea09;">Welcome to Lewen's GitHub! 👋</h1>
 
