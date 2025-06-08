@@ -18,10 +18,15 @@
   <img src="./github-metrics.svg" alt="Metrics" width="600">
 </p>
 
-<!-- 3D GitHub Calendar -->
-<p align="center">
-  <img src="./metrics.plugin.3d.svg" alt="3D GitHub Calendar" width="600">
-</p>
+<!-- 3D GitHub Contribution -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github.com/Lewen-WangCC/profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github.com/Lewen-WangCC/profile-3d-contrib/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img src="https://github.com/Lewen-WangCC/profile-3d-contrib/blob/main/profile-3d-contrib/profile-south-season-animate.svg" 
+       alt="GitHub 3D Contribution" />
+</picture>
 
 <!-- Skills Emoji -->
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,linux,github,vscode,pycharm,anaconda,vim,git,bash,docker,nginx&theme=dark&perline=7)](https://skillicons.dev)
