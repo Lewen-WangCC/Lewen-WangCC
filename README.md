@@ -23,7 +23,7 @@
 
 <!-- 3D GitHub Contribution -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
+  <source media="(prefers-color-scheme: light)" 
           srcset="https://github.com/Lewen-WangCC/Lewen-WangCC/blob/main/profile-3d-contrib/profile-night-view.svg" />
   <source media="(prefers-color-scheme: light)" 
           srcset="https://github.com/Lewen-WangCC/Lewen-WangCC/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
