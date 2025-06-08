@@ -8,7 +8,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="http://lewen-wangcc.github.io/">
-      <img src="https://img.shields.io/badge/Personal-Website-FFC0CB?style=flat" alt="Personal Website">
+      <img src="https://img.shields.io/badge/Personal-Website-4A90E2?style=flat" alt="Personal Website">
     </a>
   </div>
 </div>
