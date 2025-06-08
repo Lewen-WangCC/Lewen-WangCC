@@ -19,7 +19,7 @@
 </p>
 
 <!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,linux,github,vscode,pycharm,anaconda,vim,git,bash,docker,nginx&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,linux,github,vscode,pycharm,anaconda,sklearn,tensorflow,vim,git,bash,docker,nginx,html&theme=dark&perline=7)](https://skillicons.dev)
 
 <!-- 3D GitHub Contribution -->
 <picture>
