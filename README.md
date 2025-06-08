@@ -18,6 +18,9 @@
   <img src="./github-metrics.svg" alt="Metrics" width="600">
 </p>
 
+<!-- Skills Emoji -->
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,linux,github,vscode,pycharm,anaconda,vim,git,bash,docker,nginx&theme=dark&perline=7)](https://skillicons.dev)
+
 <!-- 3D GitHub Contribution -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -28,8 +31,6 @@
        alt="GitHub 3D Contribution" />
 </picture>
 
-<!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,linux,github,vscode,pycharm,anaconda,vim,git,bash,docker,nginx&theme=dark&perline=7)](https://skillicons.dev)
 <!--
 **Lewen-WangCC/Lewen-WangCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
