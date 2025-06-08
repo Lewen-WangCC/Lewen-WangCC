@@ -14,7 +14,14 @@
 </div>
 
 <!-- Stats Words -->
-![Metrics](github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="600">
+</p>
+
+<!-- isocalendar -->
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="600">
+</p>
 
 <!-- Skills Emoji -->
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,linux,github,vscode,pycharm,anaconda,vim,git,bash,docker,nginx&theme=dark&perline=7)](https://skillicons.dev)
