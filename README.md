@@ -31,6 +31,22 @@
        alt="GitHub 3D Contribution" />
 </picture>
 
+<!-- GitHub Activity Graph -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" 
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=github" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=tokyo-night" 
+             alt="GitHub Activity Graph" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <!--
 **Lewen-WangCC/Lewen-WangCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
