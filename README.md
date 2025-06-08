@@ -36,11 +36,11 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)"  
+        <source media="(prefers-color-scheme: dark)"  
                 srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=tokyo-night" />
         <source media="(prefers-color-scheme: light)" 
                 srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=github" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=github" 
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=tokyo-night" 
              alt="GitHub Activity Graph" />
       </picture>
     </td>
