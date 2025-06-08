@@ -18,9 +18,9 @@
   <img src="./github-metrics.svg" alt="Metrics" width="600">
 </p>
 
-<!-- isocalendar -->
+<!-- 3D GitHub Calendar -->
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="600">
+  <img src="./metrics.plugin.3d.svg" alt="3D GitHub Calendar" width="600">
 </p>
 
 <!-- Skills Emoji -->
