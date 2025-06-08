@@ -32,15 +32,15 @@
 </picture>
 
 <!-- GitHub Activity Graph -->
-<table style="background-color: transparent;">
+<table>
   <tr>
-    <td style="background-color: transparent;">
+    <td>
       <picture>
         <source media="(prefers-color-scheme: dark)"  
-                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent&area=true&color=4A90E2&point=007ACC&line=1E90FF" />
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=tokyo-night" />
         <source media="(prefers-color-scheme: light)" 
-                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent&area=true&color=4A90E2&point=007ACC&line=1E90FF" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=transparent&area=true&color=4A90E2&point=007ACC&line=1E90FF" 
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=github" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=tokyo-night" 
              alt="GitHub Activity Graph" />
       </picture>
     </td>
