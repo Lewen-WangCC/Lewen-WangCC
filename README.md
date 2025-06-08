@@ -40,7 +40,7 @@
                 srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=tokyo-night" />
         <source media="(prefers-color-scheme: light)" 
                 srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=github" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=tokyo-night" 
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lewen-WangCC&theme=github" 
              alt="GitHub Activity Graph" />
       </picture>
     </td>
