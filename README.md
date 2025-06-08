@@ -32,7 +32,7 @@
 </picture>
 
 <!-- GitHub Activity Graph -->
-<table style="background-color: #E6F0FA; border-radius: 10px; padding: 10px;">
+<table>
   <tr>
     <td>
       <picture>
