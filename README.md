@@ -14,6 +14,9 @@
   </div>
 </div>
 
+<!-- World Peaceful words -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A90E2&multiline=false&width=600&lines=When+you+work,+work.;When+you+laugh,+laugh.;When+you+eat,+eat+like+it's+your+last+meal.)](https://git.io/typing-svg)
+
 <!-- Stats Words -->
 <p align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="600">
